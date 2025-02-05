@@ -18,10 +18,8 @@ This repository contains MATLAB code for analyzing the performance of an **alkal
 ## **Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/electrolyzer-matlab.git
+   git clone (https://github.com/SinaGhanbarii/EEG-Cross-Track-Exercise.git)
    ```
 2. Open **ETEPS.m** in MATLAB.  
 3. Run the script to generate performance metrics and plots.  
 
-## **License**  
-This project is licensed under the **MIT License**.  
